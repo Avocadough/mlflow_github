@@ -67,9 +67,10 @@ jobs:
       if: success()
       run: python mlops_pipeline/scripts/04_transition_model.py "wine-classifier-prod" "Staging"
 
-    - name: Upload MLflow artifacts for inspection
-      if: success()
+    - name: Upload mlruns
+      if: always()
       uses: actions/upload-artifact@v4
       with:
-        name: mlflow-artifacts
+        name: mlruns
         path: mlruns/
+        if-no-files-found: ignore
