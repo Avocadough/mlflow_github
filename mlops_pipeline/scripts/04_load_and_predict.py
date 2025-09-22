@@ -29,7 +29,7 @@ def transition_model_alias(model_name, alias):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python scripts/04_transition_model.py <model_name> <alias>")
+        print("Usage: python scripts/04_load_and_predict.py <model_name> <alias>")
         sys.exit(1)
     
     model_name_arg = sys.argv[1]
