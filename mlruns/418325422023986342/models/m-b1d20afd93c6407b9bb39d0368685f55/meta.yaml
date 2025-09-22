@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Admin/Desktop/mlflow_github/mlruns/418325422023986342/models/m-b1d20afd93c6407b9bb39d0368685f55/artifacts
+creation_timestamp: 1758532198774
+experiment_id: '418325422023986342'
+last_updated_timestamp: 1758532201725
+model_id: m-b1d20afd93c6407b9bb39d0368685f55
+model_type: null
+name: wine_classifier_pipeline
+source_run_id: 7f8258a6fd4b4fc384ab2f9aafdfc7c8
+status: 2
+status_message: null

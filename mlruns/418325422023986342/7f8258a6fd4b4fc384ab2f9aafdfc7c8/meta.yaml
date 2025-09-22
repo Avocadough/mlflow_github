@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/mlflow_github/mlruns/418325422023986342/7f8258a6fd4b4fc384ab2f9aafdfc7c8/artifacts
+end_time: 1758532201831
+entry_point_name: ''
+experiment_id: '418325422023986342'
+lifecycle_stage: active
+run_id: 7f8258a6fd4b4fc384ab2f9aafdfc7c8
+run_name: logistic_regression_C_10.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758532198670
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,8 @@
+aliases:
+  Staging: '2'
+creation_timestamp: 1758532201751
+deployment_job_id: null
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1758532918533
+name: wine-classifier-prod

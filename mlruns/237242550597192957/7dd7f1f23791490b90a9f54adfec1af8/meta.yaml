@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/mlflow_github/mlruns/237242550597192957/7dd7f1f23791490b90a9f54adfec1af8/artifacts
+end_time: 1758531591315
+entry_point_name: ''
+experiment_id: '237242550597192957'
+lifecycle_stage: active
+run_id: 7dd7f1f23791490b90a9f54adfec1af8
+run_name: charming-wolf-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758531591218
+status: 3
+tags: []
+user_id: Admin

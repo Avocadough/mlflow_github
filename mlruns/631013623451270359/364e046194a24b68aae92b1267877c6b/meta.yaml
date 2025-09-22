@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/mlflow_github/mlruns/631013623451270359/364e046194a24b68aae92b1267877c6b/artifacts
+end_time: 1758531573915
+entry_point_name: ''
+experiment_id: '631013623451270359'
+lifecycle_stage: active
+run_id: 364e046194a24b68aae92b1267877c6b
+run_name: caring-loon-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758531573826
+status: 3
+tags: []
+user_id: Admin
