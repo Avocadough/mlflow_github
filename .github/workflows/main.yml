@@ -36,7 +36,7 @@ jobs:
 
   build-and-train:
     needs: ci-checks
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     env:
       MLFLOW_TRACKING_URI: file:./mlruns
     steps:
